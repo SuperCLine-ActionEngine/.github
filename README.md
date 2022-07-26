@@ -14,3 +14,19 @@ repo init --no-clone-bundle -u https://github.com/SuperCLine-ActionEngine/OpenMi
 repo sync
 repo forall -c git checkout master
 ```
+
+# Environment
+```shell
+# install git
+brew install git
+# install git-gui
+brew install git-gui
+# install git lfs
+brew install git-lfs
+# install python 3.10.5
+brew install python
+# install repo
+# https://gerrit.googlesource.com/git-repo/
+# install unity 2020.3.33f1
+# https://unity3d.com/unity/qa/lts-releases?version=2020.3
+```
