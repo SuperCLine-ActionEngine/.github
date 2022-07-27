@@ -8,6 +8,22 @@
 - 除框架需要，请不要使用MonoBehaviour和MonoSingleton
 - Lua严格遵循两个规则:一是一切皆local,二是公有化一切皆module
 
+# Git Convention
+- git add
+- git commit
+    ```shell
+    (+ add)
+    (- remove)
+    (* update)
+    (# fixed)
+    ```
+- git fetch
+- git rebase
+- manual merge
+- git rebase -continue
+- git push
+
+
 # Environment
 ```shell
 # install git
