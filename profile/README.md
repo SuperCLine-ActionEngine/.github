@@ -1,4 +1,4 @@
-# Rules & Names Convention
+# 一、 Rules & Names Convention
 - 遵循驼峰命名规则
 - 遵循Unity命名规则
 - 类名、函数以大写开头
@@ -8,7 +8,7 @@
 - 除框架需要，请不要使用MonoBehaviour和MonoSingleton
 - Lua严格遵循两个规则:一是一切皆local,二是公有化一切皆module
 
-# Git Convention
+# 二、 Git Convention
 - git add
 - git commit
     ```shell
@@ -24,7 +24,7 @@
 - git push
 
 
-# Environment
+# 三、 Environment
 
 ## unity
 
@@ -73,7 +73,7 @@ brew install python
 # https://unity3d.com/unity/qa/lts-releases?version=2020.3
 ```
 
-# [git repo](https://gerrit.googlesource.com/git-repo/)
+# 四、 [git repo](https://gerrit.googlesource.com/git-repo/)
 ```shell
 repo init --no-clone-bundle -u https://github.com/SuperCLine-ActionEngine/OpenMic-Manifest.git
 repo sync
