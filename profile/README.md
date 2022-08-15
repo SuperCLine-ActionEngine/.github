@@ -25,6 +25,39 @@
 
 
 # Environment
+
+## unity
+
+- [Install Unity Hub](https://unity3d.com/get-unity/download)
+- [Install Unity 2020.3.33f1](https://unity3d.com/unity/qa/lts-releases?version=2020.3)
+  ```
+  备注:一定要通过网站选择Unity Hub安装，不然为安装成国内版
+  ```
+
+## git
+- [Install Git](https://gitforwindows.org/)
+- [Install Git-Lfs](https://git-lfs.github.com/)
+- [Register GitHub](https://github.com/)
+  ```
+  备注:将注册好的github邮件地址，发给我用于项目权限
+  ```
+
+## python 3.10
+- [Install python]
+  ```
+  备注:通过cmd窗口输入python进行安装
+  ```
+## repo
+- [Install repo](https://gerrit.googlesource.com/git-repo/)
+  ```
+  备注:通过git bash来运行Install目录下的命令
+  ```
+
+## editor
+- [Install Visual Studio Community 2019](https://visualstudio.microsoft.com/vs/older-downloads/)
+- [Install Visual Studio Code](https://code.visualstudio.com/download)
+
+## mac
 ```shell
 # install git
 brew install git
