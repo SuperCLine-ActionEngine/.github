@@ -41,6 +41,8 @@
   ```
   备注:将注册好的github邮件地址，发给我用于项目权限
   ```
+- [客户端仓库](https://github.com/SuperCLine-ActionEngine)
+- [配置、协议、工具等仓库](https://github.com/MetaAvatar)
 
 ## python 3.10
 - [Install python]
