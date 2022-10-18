@@ -29,7 +29,7 @@
 ## unity
 
 - [Install Unity Hub](https://unity3d.com/get-unity/download)
-- [Install Unity 2020.3.33f1](https://unity3d.com/unity/qa/lts-releases?version=2020.3)
+- [Install Unity 2020.3.40f1](https://unity3d.com/unity/qa/lts-releases?version=2020.3)
   ```
   备注:一定要通过网站选择Unity Hub安装，不然为安装成国内版
   ```
@@ -71,7 +71,7 @@ brew install git-lfs
 brew install python
 # install repo
 # https://gerrit.googlesource.com/git-repo/
-# install unity 2020.3.33f1
+# install unity 2020.3.40f1
 # https://unity3d.com/unity/qa/lts-releases?version=2020.3
 ```
 
